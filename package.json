@@ -1,0 +1,19 @@
+{
+  "name": "mct-erc20-token",
+  "version": "1.0.0",
+  "description": "MCT - Main Characters Tokens , An ERC20 Token (Our very own Cryptocurrency)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "web3": "^4.3.0",
+    "web3-eth-contract": "^4.1.4",
+    "web3-utils": "^4.1.0"
+  }
+}
